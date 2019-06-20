@@ -9,10 +9,10 @@ Original Image : -
 ![img](https://user-images.githubusercontent.com/29194820/59842892-16885180-9375-11e9-8477-4e215f355896.jpg)
 
 Output Image : -
-
-
+![Output](https://user-images.githubusercontent.com/29194820/59843085-7da60600-9375-11e9-8614-7403fe0196d2.PNG)
 
 *Audio Stegnography* - 
 Audio Steganography is a technique used to transmit hidden information by modifying an audio signal in an imperceptible manner. It is the science of hiding some secret text or audio information in a host message. The host message before steganography and stego message after steganography have the same characteristics.
 
 Demonstration: -
+![Screenshot (12)](https://user-images.githubusercontent.com/29194820/59843343-00c75c00-9376-11e9-8781-a6a37bc2030c.png)
