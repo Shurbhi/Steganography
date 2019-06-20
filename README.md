@@ -5,5 +5,14 @@
 *Image Steganography* –
 Image Steganography refers to the process of hiding data within an image file. The image selected for this purpose is called the cover-image and the image obtained after steganography is called the stego-image.
 
+Original Image : -
+![img](https://user-images.githubusercontent.com/29194820/59842892-16885180-9375-11e9-8477-4e215f355896.jpg)
+
+Output Image : -
+
+
+
 *Audio Stegnography* - 
 Audio Steganography is a technique used to transmit hidden information by modifying an audio signal in an imperceptible manner. It is the science of hiding some secret text or audio information in a host message. The host message before steganography and stego message after steganography have the same characteristics.
+
+Demonstration: -
