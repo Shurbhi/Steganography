@@ -97,8 +97,8 @@ def decode():
             count = count+16
         
         char = chr(int(binstr,2))
-        print(binstr)
-        print(char)
+       # print(binstr)
+       # print(char)
         if(char=='#'):
             return data       
         data +=char
